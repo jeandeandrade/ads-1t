@@ -10,3 +10,9 @@
 - Telefone: () 00000-0000
 
 - E-Mail: XXXXXXXXXXXXX.com
+
+<h3>Experiencia:</h3>
+
+- Estudante
+
+- Desenvolvedor
