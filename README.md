@@ -19,7 +19,7 @@
   
 - Habilidade :
     <div>
-    <img src="git.png" width = "100px" height = "100"></div>
+    <img src="git2.png" width = "100px" height = "100"></div>
 
 - Conhecimentos : 
     <div>
