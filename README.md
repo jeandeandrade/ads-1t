@@ -16,3 +16,11 @@
 - Estudante
 
 - Desenvolvedor
+  
+- Habilidade :
+    <div>
+    <img src="git.png" width = "100px" height = "100"></div>
+
+- Conhecimentos : 
+    <div>
+    <img src="css.png" width = "100px" height = "150">, <img src="html.png" width = "150px" height = "150"></div>
